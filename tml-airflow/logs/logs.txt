@@ -10245,3 +10245,4 @@ Already up to date.
 [INFO 2024-12-01_20:41:45] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-cybersecurity-160-5567.py
 [INFO 2024-12-01_20:41:49] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-cybersecurity-160-5567.py
 [INFO 2024-12-01_20:41:52] Visualization DAG in tml_system_step_7_kafka_visualization_dag-cybersecurity-160-5567.py
+[INFO 2024-12-01_20:42:06] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cybersecurity-160-5567.py
