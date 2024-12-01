@@ -14,19 +14,19 @@ import glob
 sys.dont_write_bytecode = True
 ######################################################USER CHOSEN PARAMETERS ###########################################################
 default_args = {
- 'owner': 'Sebastian Maurice',  # <<< ******** change as needed 
+ 'owner': 'Anupam Poudel',  # <<< ******** change as needed 
  'brokerhost' : '127.0.0.1',  # <<<<***************** THIS WILL ACCESS LOCAL KAFKA - YOU CAN CHANGE TO CLOUD KAFKA HOST
  'brokerport' : '9092',     # <<<<***************** LOCAL AND CLOUD KAFKA listen on PORT 9092
  'cloudusername' : '',  # <<<< --THIS WILL BE UPDATED FOR YOU IF USING KAFKA CLOUD WITH API KEY  - LEAVE BLANK
  'cloudpassword' : '',  # <<<< --THIS WILL BE UPDATED FOR YOU IF USING KAFKA CLOUD WITH API SECRET - LEAVE BLANK   
  'solutionname': 'cybersecurity-160-5567',   # <<< *** DO NOT MODIFY - THIS WILL BE AUTOMATICALLY UPDATED
- 'solutiontitle': 'My Solution Title', # <<< *** Provide a descriptive title for your solution
+ 'solutiontitle': 'Project #2', # <<< *** Provide a descriptive title for your solution
  'solutionairflowport' : '-1', # << If -1, TSS will choose a free port randonly, or set this to a fixed number
  'solutionexternalport' : '-1', # << If -1, TSS will choose a free port randonly, or set this to a fixed number
  'solutionvipervizport' : '-1', # << If -1, TSS will choose a free port randonly, or set this to a fixed number   
  'description': 'This is an awesome real-time solution built by TSS',   # <<< *** Provide a description of your solution
  'HTTPADDR' : 'https://',
- 'COMPANYNAME' : 'My company',       
+ 'COMPANYNAME' : 'Team Matrix',       
  'WRITELASTCOMMIT' : '0',   ## <<<<<<<<< ******************** FOR DETAILS ON BELOW PARAMETER SEE: https://tml.readthedocs.io/en/latest/viper.html
  'NOWINDOWOVERLAP' : '0',
  'NUMWINDOWSFORDUPLICATECHECK' : '5',
