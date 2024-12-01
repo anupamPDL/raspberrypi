@@ -15,7 +15,7 @@ import time
 sys.dont_write_bytecode = True
 ######################################## USER CHOOSEN PARAMETERS ########################################
 default_args = {
-  'myname' : 'Sebastian Maurice',   # <<< *** Change as needed      
+  'myname' : 'Anupam Poudel',   # <<< *** Change as needed      
   'enabletls': '1',   # <<< *** 1=connection is encrypted, 0=no encryption
   'microserviceid' : '', # <<< *** leave blank
   'producerid' : 'iotsolution',    # <<< *** Change as needed   
