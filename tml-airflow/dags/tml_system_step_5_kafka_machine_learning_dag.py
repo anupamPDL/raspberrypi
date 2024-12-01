@@ -190,6 +190,8 @@ def startml(**context):
        ti.xcom_push(key="{}_coeftoprocess".format(sname), value=default_args['coeftoprocess'])
        ti.xcom_push(key="{}_coefsubtopicnames".format(sname), value=default_args['coefsubtopicnames'])
        ti.xcom_push(key="{}_HPDEADDR".format(sname), value=HPDEADDR)
+       ti.xcom_push(key="{}_processlogic".format(sname), value=default_args['processlogic'])
+
 
        repo=tsslogging.getrepo() 
        if sname != '_mysolution_':
@@ -220,12 +222,14 @@ if __name__ == '__main__':
         HPDEHOST = sys.argv[5]
         HPDEPORT = sys.argv[6]
         
+        tsslogging.locallogs("INFO", "STEP 5: Machine learning started")
     
         while True:
          try:     
           performSupervisedMachineLearning()
           time.sleep(1)
          except Exception as e:
+          tsslogging.locallogs("ERROR", "STEP 5: Machine Learning DAG in {} {}".format(os.path.basename(__file__),e))
           tsslogging.tsslogit("Machine Learning DAG in {} {}".format(os.path.basename(__file__),e), "ERROR" )                     
           tsslogging.git_push("/{}".format(repo),"Entry from {}".format(os.path.basename(__file__)),"origin")    
           break
