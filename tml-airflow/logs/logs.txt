@@ -10248,3 +10248,20 @@ Already up to date.
 [INFO 2024-12-01_20:42:06] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cybersecurity-160-5567.py
 [INFO 2024-12-01_20:42:14] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-cybersecurity-160-5567.py
 [INFO 2024-12-01_21:02:44] {'_links': {'_self': 'https://readthedocs.org/api/v3/projects/cybersecurity-160-5567/', 'builds': 'https://readthedocs.org/api/v3/projects/cybersecurity-160-5567/builds/', 'environmentvariables': 'https://readthedocs.org/api/v3/projects/cybersecurity-160-5567/environmentvariables/', 'notifications': 'https://readthedocs.org/api/v3/projects/cybersecurity-160-5567/notifications/', 'redirects': 'https://readthedocs.org/api/v3/projects/cybersecurity-160-5567/redirects/', 'subprojects': 'https://readthedocs.org/api/v3/projects/cybersecurity-160-5567/subprojects/', 'superproject': 'https://readthedocs.org/api/v3/projects/cybersecurity-160-5567/superproject/', 'sync_versions': 'https://readthedocs.org/api/v3/projects/cybersecurity-160-5567/sync-versions/', 'translations': 'https://readthedocs.org/api/v3/projects/cybersecurity-160-5567/translations/', 'versions': 'https://readthedocs.org/api/v3/projects/cybersecurity-160-5567/versions/'}, 'created': '2024-12-01T21:02:43.838384Z', 'default_branch': 'master', 'default_version': 'latest', 'external_builds_privacy_level': 'public', 'homepage': 'http://template.readthedocs.io/', 'id': 1122147, 'language': {'code': 'en', 'name': 'English'}, 'modified': '2024-12-01T21:02:43.838406Z', 'name': 'cybersecurity-160-5567', 'privacy_level': 'public', 'programming_language': {'code': 'py', 'name': 'Python'}, 'repository': {'type': 'git', 'url': 'https://github.com/anupampDL/cybersecurity-160-5567'}, 'single_version': False, 'slug': 'cybersecurity-160-5567', 'subproject_of': None, 'tags': ['automation', 'sphinx'], 'translation_of': None, 'urls': {'builds': 'https://readthedocs.org/projects/cybersecurity-160-5567/builds/', 'documentation': 'https://cybersecurity-160-5567.readthedocs.io/en/latest/', 'downloads': 'https://readthedocs.org/projects/cybersecurity-160-5567/downloads/', 'home': 'https://readthedocs.org/projects/cybersecurity-160-5567/', 'versions': 'https://readthedocs.org/projects/cybersecurity-160-5567/versions/'}, 'users': [{'username': 'anupamPDL'}], 'versioning_scheme': 'multiple_versions_with_translations'}
+[INFO 2024-12-01_21:18:30] TML Solution Studio Started: DOCKERUSERNAME=anupampdl, GITUSERNAME=anupampDL, GITREPOURL=https://github.com/anupamPDL/raspberrypi, AIRFLOWPORT=9000
+[INFO 2024-12-01_21:18:30] TML Solution Studio: Docker Login Status: Error response from daemon: Get "https://registry-1.docker.io/v2/": unauthorized: incorrect username or password
+[INFO 2024-12-01_21:18:30] TML Solution Studio: Github Config Status: safe.directory=/raspberrypi
+pull.rebase=true
+user.email=anupampDL@email
+user.name=anupampDL
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/anupamPDL/raspberrypi
+remote.origin.fetch=+refs/heads/main:refs/remotes/origin/main
+remote.origin.pushurl=https://<personal access token hidden>@github.com/anupampDL/raspberrypi.git
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+[INFO 2024-12-01_21:18:30] TML Solution Studio: Github Remote Status: origin	https://github.com/anupamPDL/raspberrypi (fetch)
+origin	https://<personal access token hidden>@github.com/anupampDL/raspberrypi.git (push)
