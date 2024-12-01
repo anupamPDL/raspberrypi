@@ -10334,3 +10334,4 @@ origin	https://<personal access token hidden>@github.com/anupampDL/raspberrypi.g
 [ERROR 2024-12-01_23:12:55] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cybersecurity-160-5567.py 'StreamTopicDetails'
 [INFO 2024-12-01_23:37:25] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
 [INFO 2024-12-01_23:38:29] Deleting topic iot-preprocess in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
+[INFO 2024-12-01_23:39:33] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
