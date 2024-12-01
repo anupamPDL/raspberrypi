@@ -10239,3 +10239,4 @@ Already up to date.
 [INFO 2024-12-01_20:41:16] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
 [INFO 2024-12-01_20:41:19] Deleting topic iot-preprocess in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
 [INFO 2024-12-01_20:41:22] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
+[INFO 2024-12-01_20:41:26] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
