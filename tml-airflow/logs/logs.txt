@@ -10353,3 +10353,4 @@ origin	https://<personal access token hidden>@github.com/anupampDL/raspberrypi.g
 [INFO 2024-12-02_00:07:10] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-cybersecurity-160-5567.py
 [INFO 2024-12-02_00:07:14] Visualization DAG in tml_system_step_7_kafka_visualization_dag-cybersecurity-160-5567.py
 [INFO 2024-12-02_00:07:33] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-cybersecurity-160-5567.py
+[INFO 2024-12-02_00:12:41] {'name': ['Project with slug "cybersecurity-160-5567" already exists.']}
