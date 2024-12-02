@@ -10418,3 +10418,4 @@ origin	https://<personal access token hidden>@github.com/anupampDL/raspberrypi.g
 [INFO 2024-12-02_17:58:25] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-cybersecurity-160-5567.py
 [INFO 2024-12-02_17:58:28] Visualization DAG in tml_system_step_7_kafka_visualization_dag-cybersecurity-160-5567.py
 [INFO 2024-12-02_17:58:42] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cybersecurity-160-5567.py
+[INFO 2024-12-02_17:58:51] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-cybersecurity-160-5567.py
