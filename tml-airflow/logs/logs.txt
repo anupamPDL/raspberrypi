@@ -10411,3 +10411,4 @@ origin	https://<personal access token hidden>@github.com/anupampDL/raspberrypi.g
 [INFO 2024-12-02_17:57:46] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
 [INFO 2024-12-02_17:57:50] Deleting topic iot-preprocess in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
 [INFO 2024-12-02_17:57:54] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
+[INFO 2024-12-02_17:57:59] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
