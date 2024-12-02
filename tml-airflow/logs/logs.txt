@@ -10349,3 +10349,4 @@ origin	https://<personal access token hidden>@github.com/anupampDL/raspberrypi.g
 [INFO 2024-12-02_00:04:38] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
 [INFO 2024-12-02_00:05:43] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
 [INFO 2024-12-02_00:06:48] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
+[INFO 2024-12-02_00:07:04] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-cybersecurity-160-5567.py
