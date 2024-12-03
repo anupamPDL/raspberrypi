@@ -10631,3 +10631,4 @@ origin	https://<personal access token hidden>@github.com/anupampDL/raspberrypi.g
 [INFO 2024-12-03_22:55:19] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-cybersecurity-160-5567.py
 [INFO 2024-12-03_22:57:52] {'name': ['Project with slug "cybersecurity-160-5567" already exists.']}
 [INFO 2024-12-03_23:17:51] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
+[INFO 2024-12-03_23:17:53] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
