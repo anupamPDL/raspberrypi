@@ -14,7 +14,7 @@ sys.dont_write_bytecode = True
 ######################################## USER CHOOSEN PARAMETERS ########################################
 default_args = {
  'owner' : 'Anupam Poudel', # <<< ********** You change as needed
- 'companyname': 'Otics',  # <<< ********** You change as needed
+ 'companyname': 'Student',  # <<< ********** You change as needed
   'myname' : 'Anupam',  # <<< ********** You change as needed
   'myemail' : 'anupam.poudel',  # <<< ********** You change as needed
   'mylocation' : 'Toronto',  # <<< ********** You change as needed
@@ -24,8 +24,8 @@ default_args = {
   'brokerhost' : '',  # <<< ********** Leave as is
   'brokerport' : '-999',  # <<< ********** Leave as is
   'microserviceid' : '',  # <<< ********** You change as needed
-  'raw_data_topic' : 'iot-raw-data', # Separate multiple topics with comma <<< ********** You change topic names as needed
-  'preprocess_data_topic' : 'iot-preprocess,iot-preprocess2', # Separate multiple topics with comma <<< ********** You change topic names as needed
+  'raw_data_topic' : 'cisco-network-mainstream', # Separate multiple topics with comma <<< ********** You change topic names as needed
+  'preprocess_data_topic' : 'cisco-network-preprocess', # Separate multiple topics with comma <<< ********** You change topic names as needed
   'ml_data_topic' : 'ml-data', # Separate multiple topics with comma <<< ********** You change topic names as needed
   'prediction_data_topic' : 'prediction-data', # Separate multiple topics with comma <<< ********** You change topic names as needed
   'pgpt_data_topic' : 'cisco-network-privategpt',  #  PrivateGPT will produce responses to this topic - change as  needed
