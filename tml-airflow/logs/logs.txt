@@ -10534,3 +10534,4 @@ origin	https://<personal access token hidden>@github.com/anupampDL/raspberrypi.g
 [INFO 2024-12-03_19:47:53] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-cybersecurity-160-5567.py
 [INFO 2024-12-03_19:47:56] Visualization DAG in tml_system_step_7_kafka_visualization_dag-cybersecurity-160-5567.py
 [INFO 2024-12-03_19:48:09] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cybersecurity-160-5567.py
+[INFO 2024-12-03_19:53:13] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
