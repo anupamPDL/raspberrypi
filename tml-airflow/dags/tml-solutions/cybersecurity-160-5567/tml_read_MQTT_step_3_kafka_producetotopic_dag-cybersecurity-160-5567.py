@@ -23,20 +23,22 @@ sys.dont_write_bytecode = True
 # USERNAME/PASSWORD should be set in your DOCKER RUN command of the TSS container
 
 ######################################## USER CHOOSEN PARAMETERS ########################################
+
 default_args = {
-  'owner' : 'Anupam Poudel',    
+  'owner': 'Anupam Poudel',    
   'enabletls': '1',
-  'microserviceid' : '',
-  'producerid' : 'iotsolution',  
-  'topics' : 'cisco-network-mainstream', # *************** This is one of the topic you created in SYSTEM STEP 2
-  'identifier' : 'TML solution',  
-  'mqtt_broker' : '557a86c36cb94b68b1b375d8a0ba2b92.s1.eu.hivemq.cloud', # <<<****** Enter MQTT broker i.e. test.mosquitto.org
-  'mqtt_port' : '8883', # <<<******** Enter MQTT port i.e. 1883, 8883    (for HiveMQ cluster)
-  'mqtt_subscribe_topic': 'tml/cybersecurity', # <<<******** enter name of MQTT to subscribe to i.e. tml/iot  
-  'mqtt_enabletls': '1', # set 1=TLS, 0=no TLSS  
-  'delay' : '7000', # << ******* 7000 millisecond maximum delay for VIPER to wait for Kafka to return confirmation message is received and written to topic
-  'topicid' : '-999', # <<< ********* do not modify      
+  'microserviceid': '',
+  'producerid': 'iotsolution',  
+  'topics': 'cisco-network-mainstream',  # This is one of the topics you created in SYSTEM STEP 2
+  'identifier': 'TML solution',  
+  'mqtt_broker': '557a86c36cb94b68b1b375d8a0ba2b92.s1.eu.hivemq.cloud',  # Enter MQTT broker, e.g., test.mosquitto.org
+  'mqtt_port': 8883,  # Enter MQTT port, e.g., 1883, 8883 (for HiveMQ cluster)
+  'mqtt_subscribe_topic': 'tml/cybersecurity',  # Enter name of MQTT topic to subscribe to, e.g., tml/iot
+  'mqtt_enabletls': '1',  # Set 1 for TLS, 0 for no TLS
+  'delay': 7000,  # 7000 milliseconds maximum delay for VIPER to wait for Kafka confirmation
+  'topicid': -999,  # Do not modify
 }
+
 
 ######################################## DO NOT MODIFY BELOW #############################################
 
