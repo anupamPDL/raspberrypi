@@ -10548,3 +10548,4 @@ origin	https://<personal access token hidden>@github.com/anupampDL/raspberrypi.g
 [INFO 2024-12-03_20:08:32] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
 [INFO 2024-12-03_20:08:36] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
 [INFO 2024-12-03_20:08:40] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
+[INFO 2024-12-03_20:08:44] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-cybersecurity-160-5567.py
