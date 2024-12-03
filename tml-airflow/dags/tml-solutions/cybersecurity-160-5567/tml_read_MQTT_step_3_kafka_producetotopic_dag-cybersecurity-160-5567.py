@@ -32,11 +32,11 @@ default_args = {
   'topics': 'cisco-network-mainstream',  # This is one of the topics you created in SYSTEM STEP 2
   'identifier': 'TML solution',  
   'mqtt_broker': '557a86c36cb94b68b1b375d8a0ba2b92.s1.eu.hivemq.cloud',  # Enter MQTT broker, e.g., test.mosquitto.org
-  'mqtt_port': 8883,  # Enter MQTT port, e.g., 1883, 8883 (for HiveMQ cluster)
+  'mqtt_port': '8883',  # Enter MQTT port, e.g., 1883, 8883 (for HiveMQ cluster)
   'mqtt_subscribe_topic': 'tml/cybersecurity',  # Enter name of MQTT topic to subscribe to, e.g., tml/iot
   'mqtt_enabletls': '1',  # Set 1 for TLS, 0 for no TLS
-  'delay': 7000,  # 7000 milliseconds maximum delay for VIPER to wait for Kafka confirmation
-  'topicid': -999,  # Do not modify
+  'delay': '7000',  # 7000 milliseconds maximum delay for VIPER to wait for Kafka confirmation
+  'topicid': '-999',  # Do not modify
 }
 
 
