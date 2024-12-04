@@ -11025,3 +11025,4 @@ origin	https://<personal access token hidden>@github.com/anupampDL/raspberrypi.g
 [INFO 2024-12-04_16:31:44] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-finalproject160withprivategpt-5567.py
 [INFO 2024-12-04_16:31:50] Machine Learning DAG in tml_system_step_5_kafka_machine_learning_dag-finalproject160withprivategpt-5567.py
 [INFO 2024-12-04_16:31:54] Predictions DAG in tml_system_step_6_kafka_predictions_dag-finalproject160withprivategpt-5567.py
+[INFO 2024-12-04_16:31:57] Visualization DAG in tml_system_step_7_kafka_visualization_dag-finalproject160withprivategpt-5567.py
