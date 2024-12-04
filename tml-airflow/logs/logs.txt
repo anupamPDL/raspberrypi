@@ -11041,3 +11041,4 @@ origin	https://<personal access token hidden>@github.com/anupampDL/raspberrypi.g
 [INFO 2024-12-04_16:39:03] Visualization DAG in tml_system_step_7_kafka_visualization_dag-finalproject160withprivategpt-5567.py
 [INFO 2024-12-04_16:39:16] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-finalproject160withprivategpt-5567.py
 [INFO 2024-12-04_16:39:24] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-finalproject160withprivategpt-5567.py
+[INFO 2024-12-04_16:41:42] {'name': ['Project with slug "finalproject160withprivategpt-5567" already exists.']}
