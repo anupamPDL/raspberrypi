@@ -11177,3 +11177,4 @@ origin	https://<personal access token hidden>@github.com/anupampDL/raspberrypi.g
 [INFO 2024-12-05_16:32:29] Predictions DAG in tml_system_step_6_kafka_predictions_dag-finalproject160withprivategpt-5567.py
 [INFO 2024-12-05_16:32:33] Visualization DAG in tml_system_step_7_kafka_visualization_dag-finalproject160withprivategpt-5567.py
 [INFO 2024-12-05_16:32:46] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-finalproject160withprivategpt-5567.py
+[INFO 2024-12-05_16:32:55] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-finalproject160withprivategpt-5567.py
