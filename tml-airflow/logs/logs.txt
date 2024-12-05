@@ -11172,3 +11172,4 @@ origin	https://<personal access token hidden>@github.com/anupampDL/raspberrypi.g
 [INFO 2024-12-05_16:31:56] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-finalproject160withprivategpt-5567.py
 [INFO 2024-12-05_16:32:00] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-finalproject160withprivategpt-5567.py
 [INFO 2024-12-05_16:32:14] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-finalproject160withprivategpt-5567.py
+[INFO 2024-12-05_16:32:18] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-finalproject160withprivategpt-5567.py
