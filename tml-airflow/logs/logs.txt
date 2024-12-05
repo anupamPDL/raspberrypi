@@ -11179,3 +11179,4 @@ origin	https://<personal access token hidden>@github.com/anupampDL/raspberrypi.g
 [INFO 2024-12-05_16:32:46] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-finalproject160withprivategpt-5567.py
 [INFO 2024-12-05_16:32:55] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-finalproject160withprivategpt-5567.py
 [INFO 2024-12-05_16:38:26] {'name': ['Project with slug "finalproject160withprivategpt-5567" already exists.']}
+[INFO 2024-12-05_16:40:28] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-finalproject160withprivategpt-5567.py
