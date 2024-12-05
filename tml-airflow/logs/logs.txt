@@ -11181,3 +11181,4 @@ origin	https://<personal access token hidden>@github.com/anupampDL/raspberrypi.g
 [INFO 2024-12-05_16:38:26] {'name': ['Project with slug "finalproject160withprivategpt-5567" already exists.']}
 [INFO 2024-12-05_16:40:28] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-finalproject160withprivategpt-5567.py
 [INFO 2024-12-05_16:40:32] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-finalproject160withprivategpt-5567.py
+[INFO 2024-12-05_16:40:37] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-finalproject160withprivategpt-5567.py
